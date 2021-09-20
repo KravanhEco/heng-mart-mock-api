@@ -1,1 +1,17 @@
-
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "new",
+      "price":10
+    },
+    {
+      "id": 2,
+      "name": "nothing",
+      "price":12
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
