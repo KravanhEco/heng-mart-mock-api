@@ -9,6 +9,11 @@
       "id": 2,
       "name": "nothing",
       "price": 12
+    },
+    {
+      "id": 3,
+      "name": "nothing",
+      "price": 12
     }
   ],
   "earning": [
@@ -42,17 +47,26 @@
       "day": "Monday",
       "isActive": true,
       "slotOneStart": 1632298871000,
-      "slotOneEnd":1632298871000,
-      "slotTwoStart":1632298871000,
-      "slotTwoEnd":1632298871000
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
     },
     {
       "day": "sunday",
       "isActive": true,
       "slotOneStart": 1632298871000,
-      "slotOneEnd":1632298871000,
-      "slotTwoStart":1632298871000,
-      "slotTwoEnd":1632298871000
+      "slotOneEnd": 1632298871000,
+      "slotTwoStart": 1632298871000,
+      "slotTwoEnd": 1632298871000
+    }
+  ],
+  "top-up-history-detail": [
+    {
+      "customerName": "Chan Thaily",
+      "phoneNumber": "08909889080",
+      "money": "100000៛",
+      "time": 1632298871000,
+      "staffName": "Mony"
     }
   ]
 }
