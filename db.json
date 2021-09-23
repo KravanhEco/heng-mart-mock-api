@@ -82,5 +82,45 @@
       "time": 1632298871000,
       "staffName": "Mony"
     }
+  ],
+  "top-up-history": [
+    {
+      "dateTime": 1632298871000,
+      "top-up-history-detail": [
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        },
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        }
+      ]
+    },
+    {
+      "dateTime": 1632298871000,
+      "topUpHistoryDetail": [
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        },
+        {
+          "customerName": "Chan Thaily",
+          "phoneNumber": "08909889080",
+          "money": "100000៛",
+          "time": 1632298871000,
+          "staffName": "Mony"
+        }
+      ]
+    }
   ]
 }
