@@ -86,7 +86,7 @@
   "top-up-history": [
     {
       "dateTime": 1632298871000,
-      "top-up-history-detail": [
+      "historyDetail": [
         {
           "customerName": "Chan Thaily",
           "phoneNumber": "08909889080",
@@ -105,7 +105,7 @@
     },
     {
       "dateTime": 1632298871000,
-      "topUpHistoryDetail": [
+      "historyDetail": [
         {
           "customerName": "Chan Thaily",
           "phoneNumber": "08909889080",
